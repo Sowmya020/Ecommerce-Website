@@ -1,0 +1,12 @@
+cors - allows frontend to access backend
+dotenv - for using environmental variables
+express - for api
+jsonwebtoken - enable user authentication
+mongoose - database
+multer - store images on clodinary storage
+nodemon - restart backend when we change code
+validator - check if data from user is valid
+bcrypt - encrypt the data
+axios - make api calls
+react router dom - create routes
+react toastify - for notifications
